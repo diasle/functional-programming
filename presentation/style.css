@@ -1,0 +1,16 @@
+.reduce-table {
+    width: 100%;
+}
+
+.spectacle-content.first {
+    max-width: 1550px !important;
+    max-height: 1100px !important;
+}
+
+.longer {
+    max-width: 1830px !important;
+}
+
+.bit-longer {
+    max-width: 1450px !important;
+}
