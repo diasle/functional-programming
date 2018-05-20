@@ -2,6 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63d88093-de81-475a-bf6e-4d753076092c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/0178ac54aa4b1f22a031068f751d847c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/0be525b3980e71a1cccbf981b3aff790.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/0cc5f3494e3b5dc358463c9364d367f5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/10ef11a9e3814dfb2320d7b07fe7a152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/1d2513bc7e701fcc3752c4a38a7544cf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/1d6c1274c3e311bc5326860e1b9c274e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/241a41ef131d625fddd1a5cc2f4b869c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/244347b34bff26789c8cd391fa627f79.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/246d0c844c1e84669ccd4bf800bea5f6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/25ab9e0cd06ca69729db2833615231b4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/27968cbd7c9cfcacac856ecf5985ea35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/290f743701339eadaa9292938234fb53.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/3a62ed332d0fe9a050cdfcdb65ec2500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/3c43e9d87d07a782d64df7c6045a4d0e.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/3e7feea8dbd6b94cc7173a1a6390f5a3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/45905c91bc94716782a73fdc7fc1a170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/4989f8e2a0ee464841571525417e6a25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/5485d82f139f39d00ebb187c22d05ff2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/58642d37662dbf7395cd525f149012dd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/5aba1624944402aa07f97d0b5beb61b5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/5e934f1246f7fab052bb1529e89b87e7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/653fb26605cae61ee2f87280830209ea.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/666a9a1669e78f4c3d442309b3b0b0d3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/688e35eb252e13a2b33184ccbdb91956.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/70e51112b17837e5d44779be2ff446e1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/75ddef9f94161c964e4a2b188d1d5f22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/7911693b421b5b71b538a32616890e03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/99f8df5ce7c16335705c92fee0838254.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/acdce1d6f027c321fa2ae21b3166deab.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/b16a6740f7516cbe92e8e13a6166cabf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/b8508b624d6aba491f7a62e6e3a77f04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/cb5fe61a576dbd9a2352a2f5f633cb3b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/cecdc92b2e8819a39efb389fd3a9d906.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/cf869c33af6e8890552630fb148e483b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/e16d4e524ea7365b26aaf7f273b38ccb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/e4821e2a219acc5fc2333559009570fa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/efa1ac561e14fe1318ccbb78b4341853.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/f0c79e361a51837ca773dbeb91ce5201.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/f3d788f927b4076a32b12d4a31aa8637.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/f6bae9f0ae1f2ff20951a044e1122a41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/f975acd1a7cab4ce72d9fa50e6854f6d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/fcb8fd1b28255567425e392e7c0a108d.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -42,8 +86,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+            <state relative-caret-position="266">
+              <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -209,20 +253,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prezentacja" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prezentacja" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -345,12 +375,12 @@
       <workItem from="1522089337802" duration="1881000" />
       <workItem from="1522099191720" duration="1063000" />
       <workItem from="1522131115088" duration="1418000" />
-      <workItem from="1526846016712" duration="2122000" />
+      <workItem from="1526846016712" duration="3386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58376000" />
+    <option name="totallyTimeSpent" value="59640000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
@@ -790,8 +820,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+        <state relative-caret-position="266">
+          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding />
         </state>
       </provider>
